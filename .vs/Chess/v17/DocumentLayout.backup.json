@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\patry\\Desktop\\ChessCSharp-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|c:\\users\\patry\\desktop\\chesscsharp-main\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\patry\\Desktop\\ChessCSharp-main\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\patry\\Desktop\\ChessCSharp-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\patry\\Desktop\\ChessCSharp-main\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\patry\\Desktop\\ChessCSharp-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|C:\\Users\\patry\\Desktop\\ChessCSharp-main\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0305FD35-D534-477E-B274-3BBFEE795390}|Chess.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:52:37.037Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAiwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:32:50.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Tools.cs",
+              "RelativeToolTip": "Tools.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:41:16.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Move.cs",
+              "RelativeDocumentMoniker": "Move.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Move.cs",
+              "RelativeToolTip": "Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:59:34.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Piece.cs",
+              "RelativeDocumentMoniker": "Piece.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Piece.cs",
+              "RelativeToolTip": "Piece.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwFcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:14:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:22:17.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chessboard.cs",
+              "DocumentMoniker": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Chessboard.cs",
+              "RelativeDocumentMoniker": "Chessboard.cs",
+              "ToolTip": "C:\\Users\\patry\\Desktop\\ChessCSharp-main\\Chessboard.cs",
+              "RelativeToolTip": "Chessboard.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:21:47.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
